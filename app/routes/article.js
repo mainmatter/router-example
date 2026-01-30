@@ -5,7 +5,7 @@ export default class ArticleRoute extends Route {
     return {
       title: 'Tales from the Router',
       body: 'Blablabla.',
-      author: { name: 'Bob' },
+      author: { id: '1', name: 'Bob' },
     };
   }
 }
