@@ -1,4 +1,3 @@
-import '@warp-drive/ember/install';
 import Application from 'router-example/app';
 import config from 'router-example/config/environment';
 import * as QUnit from 'qunit';
